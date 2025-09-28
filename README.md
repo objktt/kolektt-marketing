@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Kolektt Marketing Site
 
-## Getting Started
+🎵 **Marketing landing page for Kolektt - BPM Collection Hub**
 
-First, run the development server:
+A clean, modern marketing website showcasing Kolektt's features for DJ and music producers. Built with Next.js 15, TypeScript, and Tailwind CSS.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🌐 Live Site
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**[Visit Kolektt Marketing Site →](https://kolektt.vercel.app)**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ✨ Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Responsive Design** - Works perfectly on desktop and mobile devices
+- **Modern UI/UX** - Clean design with smooth animations and interactions
+- **Performance Optimized** - Static generation for fast loading times
+- **SEO Ready** - Optimized meta tags and structured data
+- **Accessible** - Built with accessibility best practices
 
-## Learn More
+## 🛠️ Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+- **Framework:** [Next.js 15](https://nextjs.org) with App Router
+- **Styling:** [Tailwind CSS](https://tailwindcss.com)
+- **Language:** TypeScript
+- **Deployment:** [Vercel](https://vercel.com)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Getting Started
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/objktt/kolektt-marketing.git
+   cd kolektt-marketing
+   ```
 
-## Deploy on Vercel
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+3. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+4. **Open [http://localhost:3000](http://localhost:3000)** to see the site.
+
+## 📦 Available Scripts
+
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run start` - Start production server
+- `npm run lint` - Run ESLint
+
+## 🔗 Related Projects
+
+- **[Kolektt Hub](https://github.com/objktt/kolektt-hub-clean)** - Main application repository
+
+## 📄 License
+
+MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+*Built with ❤️ for the music community*
